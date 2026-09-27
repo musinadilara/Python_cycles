@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ev39mCVioVV7hOcpOXgL-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rotation=0;" value="Конец" vertex="1">
-          <mxGeometry height="40" width="120" x="490" y="1090" as="geometry" />
+          <mxGeometry height="40" width="120" x="490" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="Ev39mCVioVV7hOcpOXgL-43" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;rotation=0;" value="Вывод x_beg, y" vertex="1">
           <mxGeometry height="60" width="90" x="340" y="870" as="geometry" />
